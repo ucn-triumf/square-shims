@@ -578,7 +578,7 @@ myset.add_coil(bott_nw)
 
 
 # output geometry to a file
-myset.output_coils('coil_points/coil_')
+# myset.output_coils('coil_points/coil_')
 
 
 class sensor:

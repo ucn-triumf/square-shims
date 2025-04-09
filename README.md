@@ -38,3 +38,12 @@ What the code does:
   command-line switches.  Run the program using the --help switch for
   more information.
 
+
+Typical command line:
+
+./particular-coils-onesheet.py -a -t -l 1 -m 0
+
+-a gives plots and data long the x-, y-, and z-axis
+-t pops up a window with a 3D view of the coils
+-l and -m set the G_l^m spherical harmonic that you would like to generate
+
